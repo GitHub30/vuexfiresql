@@ -1,0 +1,33 @@
+{
+  "name": "vuexfiresql",
+  "version": "1.0.0",
+  "description": "FireSQL bindings for Vuex",
+  "main": "dist/vuexfiresql.js",
+  "scripts": {
+    "build": "rm -rf dist && microbundle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHub30/vuexfiresql.git"
+  },
+  "keywords": [
+    "Vuex",
+    "Nuxt",
+    "Vue",
+    "Firebase",
+    "MySQL"
+  ],
+  "author": "Tomofumi Inoue <funaox@gmail.com> (https://github.com/GitHub30)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitHub30/vuexfiresql/issues"
+  },
+  "homepage": "https://github.com/GitHub30/vuexfiresql#readme",
+  "dependencies": {
+    "firesql.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  }
+}
