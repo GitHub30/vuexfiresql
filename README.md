@@ -5,7 +5,7 @@ FireSQL bindings for Vuex
 ```bash
 yarn add vuexfiresql
 # or
-npm install vuexfiresql
+npm install --save vuexfiresql
 ```
 
 # Usage
